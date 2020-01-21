@@ -3,7 +3,9 @@
 
 # Install di Termux
 
- $ pkg install node & git
+ $ pkg install node
+ 
+ $ pkg install git
 
  $ git clone https://github.com/ricko-v/stream-anime/
 
