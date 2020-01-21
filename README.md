@@ -1,5 +1,5 @@
 # stream-anime
-
+ Coded by Ricko V
 
 # Install di Termux
 
@@ -8,6 +8,7 @@
  $ git clone https://github.com/ricko-v/stream-anime/
 
  $ cd stream-anime
+
  $ npm i
 
  $ node index.js
