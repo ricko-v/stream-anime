@@ -3,7 +3,7 @@
 
 # Install di Termux
 
- $ pkg install node
+ $ pkg install nodejs
  
  $ pkg install git
 
