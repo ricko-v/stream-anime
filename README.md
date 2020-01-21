@@ -1,8 +1,7 @@
 # stream-anime
 
-Coded by Ricko V
 
-#Install di Termux
+# Install di Termux
 
  $ pkg install node & git
 
