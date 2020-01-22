@@ -1,6 +1,9 @@
 # stream-anime
  Coded by Ricko V
 
+ Sumber Video :
+ https://gokunime.com
+
 # Install di Termux
 
  $ pkg install nodejs
